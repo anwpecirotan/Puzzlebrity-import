@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 1c0d61aea1699b24eb931b7a9ba86f60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2450849283870374065
+    second: Ozbekkhan1024_0
+  - first:
+      213: -4084202681914327873
+    second: Ozbekkhan1024_1
+  - first:
+      213: -634616138640615691
+    second: Ozbekkhan1024_2
+  - first:
+      213: -4857943730272583514
+    second: Ozbekkhan1024_3
+  - first:
+      213: 882927775679130001
+    second: Ozbekkhan1024_4
+  - first:
+      213: 2471674969855119079
+    second: Ozbekkhan1024_5
+  - first:
+      213: 7762289761925339839
+    second: Ozbekkhan1024_6
+  - first:
+      213: 7477989252218573921
+    second: Ozbekkhan1024_7
+  - first:
+      213: 3926164710281841238
+    second: Ozbekkhan1024_8
+  - first:
+      213: 5050906320192414803
+    second: Ozbekkhan1024_9
+  - first:
+      213: -8433534490438026802
+    second: Ozbekkhan1024_10
+  - first:
+      213: -7386725255479553251
+    second: Ozbekkhan1024_11
+  - first:
+      213: -6685107438276394381
+    second: Ozbekkhan1024_12
+  - first:
+      213: 6041630067848877988
+    second: Ozbekkhan1024_13
+  - first:
+      213: 775536706026861179
+    second: Ozbekkhan1024_14
+  - first:
+      213: 255613866054175533
+    second: Ozbekkhan1024_15
+  - first:
+      213: -2160304601997361948
+    second: Ozbekkhan1024_16
+  - first:
+      213: 555866155067291545
+    second: Ozbekkhan1024_17
+  - first:
+      213: -449900854837799984
+    second: Ozbekkhan1024_18
+  - first:
+      213: 8613167534472989828
+    second: Ozbekkhan1024_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ozbekkhan1024_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5731b6ef8c9524791697fa7d77f4a3
+      internalID: -2450849283870374065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a9414ed7f754c4d8b6f8dc1ca86939
+      internalID: -4084202681914327873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee487f55c880c4cb15e24809350a4a
+      internalID: -634616138640615691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8af64ece7613f45abf82bf7956794d
+      internalID: -4857943730272583514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8975f88fbad084c8f4686e84ae8ff5
+      internalID: 882927775679130001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a21ab06cebd2124b87a4848f7ffbf20
+      internalID: 2471674969855119079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234518b8fcb722a4abcaa7c94badd183
+      internalID: 7762289761925339839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c3521fab4aaeb40a38989669de6eec
+      internalID: 7477989252218573921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec065c8cc70d2544087c22282b216980
+      internalID: 3926164710281841238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788b2379aa4e5a41a718565a78a91a4
+      internalID: 5050906320192414803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458bf4e448421304894d6f107a60a187
+      internalID: -8433534490438026802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166330b409725bb45861de47eee9119f
+      internalID: -7386725255479553251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3300d9d13ead48941b400f11e467c783
+      internalID: -6685107438276394381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6aa313ac2329d4eb89e98319bc584e
+      internalID: 6041630067848877988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ed7b6de3672794d90c774133ba4a3e
+      internalID: 775536706026861179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e6a1d9f23b9b49970195073fb4893
+      internalID: 255613866054175533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44935fabc6e51da4e8bf1c0d190c3f41
+      internalID: -2160304601997361948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21aeb9bc9f9a92498902f5f1b3cfb8c
+      internalID: 555866155067291545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e452dce28b3ea4d8b2c6a2154fa172
+      internalID: -449900854837799984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ozbekkhan1024_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2ab7d62aba9a74780d36115b238727
+      internalID: 8613167534472989828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0fe11d473f565b343ba4c05f46aa953b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 220e6a50cf3d1d249b8e1431de55082a
+timeCreated: 1561537403
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EID AL-FITR 2
+  fontNames:
+  - EID AL-FITR 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

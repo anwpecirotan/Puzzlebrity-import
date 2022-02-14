@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 9dcc719b6fe63d246a6436f1defbe473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7686370522308136573
+    second: Dome - Bangladesh_0
+  - first:
+      213: 4267799797383424774
+    second: Dome - Bangladesh_1
+  - first:
+      213: 4036984915943899539
+    second: Dome - Bangladesh_2
+  - first:
+      213: 7805816221049216199
+    second: Dome - Bangladesh_3
+  - first:
+      213: 4208299225971754514
+    second: Dome - Bangladesh_4
+  - first:
+      213: -8309300346711202225
+    second: Dome - Bangladesh_5
+  - first:
+      213: 5132189433590571120
+    second: Dome - Bangladesh_6
+  - first:
+      213: 4034742392115488369
+    second: Dome - Bangladesh_7
+  - first:
+      213: -2562608937352538213
+    second: Dome - Bangladesh_8
+  - first:
+      213: 255358739730503780
+    second: Dome - Bangladesh_9
+  - first:
+      213: -2307960973773029473
+    second: Dome - Bangladesh_10
+  - first:
+      213: 3580217148321372445
+    second: Dome - Bangladesh_11
+  - first:
+      213: -7863751541647237487
+    second: Dome - Bangladesh_12
+  - first:
+      213: -7673251141496665531
+    second: Dome - Bangladesh_13
+  - first:
+      213: -6695569973610539922
+    second: Dome - Bangladesh_14
+  - first:
+      213: 7228912069727603228
+    second: Dome - Bangladesh_15
+  - first:
+      213: 6249383695877766379
+    second: Dome - Bangladesh_16
+  - first:
+      213: 593386703218384328
+    second: Dome - Bangladesh_17
+  - first:
+      213: -3870712250018167162
+    second: Dome - Bangladesh_18
+  - first:
+      213: 3310776424334104809
+    second: Dome - Bangladesh_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dome - Bangladesh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13de496340a6543b89b89ccb173c3b
+      internalID: -7686370522308136573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c572efe7f7db541870d5402a885a15
+      internalID: 4267799797383424774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4f94c6894b3f4e95f38c8cc6e68b2
+      internalID: 4036984915943899539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7554890719af10c4c8dcc1bacf3c4b34
+      internalID: 7805816221049216199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 540
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d32e95ecaa7c4c8a3bb2509edc99e
+      internalID: 4208299225971754514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414d32627a42bcc4197e895350a4ddb1
+      internalID: -8309300346711202225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b732db4bfb67045a6cf18221c39a09
+      internalID: 5132189433590571120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcffe5ecb593d844b9ddc9b329ee61de
+      internalID: 4034742392115488369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7bbe0a508ca534b8b8111af2295fd3
+      internalID: -2562608937352538213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 360
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3bd3d8e7e2fee41820eaac3e99df97
+      internalID: 255358739730503780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f83f765dd7f5474a8b4775845a21205
+      internalID: -2307960973773029473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8e696eca08ba43b7f07ff65b94469
+      internalID: 3580217148321372445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2482aa6f74ca6f43b1470e736859cff
+      internalID: -7863751541647237487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182a1dac2453dd84fa1690d27df7f1ce
+      internalID: -7673251141496665531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 180
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b3343594a81334e979b1b27b9b6385
+      internalID: -6695569973610539922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e4a2b1b851e64baf84b8b670c9e1b
+      internalID: 7228912069727603228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd9449a35f8cb84eaee3106175b1971
+      internalID: 6249383695877766379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0326ca8d2a4a43648929f464b7d7157d
+      internalID: 593386703218384328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1747b4a0d42a04189d63a5a709bc5d
+      internalID: -3870712250018167162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dome - Bangladesh_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204.8
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa19b7bcb59fb488d5d481044ef1a5
+      internalID: 3310776424334104809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d610cf4b01ee2e243ac9147b0ea9a892
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
